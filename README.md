@@ -15,3 +15,5 @@ I'm NQ, an aspiring data analyst passionate about uncovering insights through sp
 - **Languages**: Python, R, SQL (Postgres), JavaScript, HTML/CSS
 - **Frameworks**: ArcGIS, QGIS, PostGIS, Leaflet, Mapbox
 - **Libraries**: Pandas, GeoPandas, Shapely, Rasterio, Matplotlib, Scikit-Learn
+
+[Portfolio](https://qnn16.github.io/#about)
